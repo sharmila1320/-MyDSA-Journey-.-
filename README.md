@@ -40,3 +40,8 @@ Trees Intro
 Types                                                                                                                                                                         
 Definitions and Terminology                                                                                                                                                   
 (And started doing this repo -lol) .                                                                                                                                           
+# Day 03 : 26-06-2025
+I was feeling dead tired today , since it's a long day ! I usually tackle DSA first thing in the morning, but I got a lot on my plate today, I ended up doing just 2 Problmes in depth late at night !                                                                                                                                                       The important thing is I showed even after feeling so tired and little sick, also my eyes gave up cuase all day long , I work with systems !                                  So today , I solved :
+1. Union of two arrays(unsorted) : Started with burte force approach , learnt a lot about set and vector usage and then moved onto other methods!
+2. Intersection of two unsorted arrays(just my brute force solution)
+conclusion ?! Happy that I showed up even when I was dead tired !
